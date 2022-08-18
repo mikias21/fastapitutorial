@@ -1,4 +1,3 @@
-from tkinter import CASCADE
 from xmlrpc.client import Boolean
 from .database import Base
 from sqlalchemy import Column, Integer, String, Boolean, ForeignKey
